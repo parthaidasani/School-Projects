@@ -1,2 +1,2 @@
-# School-Projects
+# School Projects
 Project work from various classes. 
